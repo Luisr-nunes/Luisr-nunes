@@ -57,6 +57,17 @@
 
 ---
 
+### Education
+
+* **Analysis and Systems Development** (BTech) – **CESAR School** (2025 – 2027)
+* **Intelligent Management of Distance Learning** (Postgraduate) – **UNIFAEL** (Expected 2026)
+* **Distance Learning with a Focus on Methodologies** (Postgraduate) – **UNAMA** (2023)
+* **MBA in Financial Management, Controllership and Auditing** – **Faculdade UniBF** (2022)
+* **Real Estate Transactions Technician** – **Escola Técnica Mônaco** (2021)
+* **Bachelor’s Degree in Accounting** – **Faculdade ESUDA** (2016 – 2020)
+
+---
+
 ### Most Used Languages:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisr-nunes&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Most Used Languages" />
