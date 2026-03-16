@@ -19,7 +19,7 @@
 
 ---
 
-### 🛠 Languages and Tools:
+### Languages and Tools:
 
 #### Programming Languages & Back-end
 <p align="left">
