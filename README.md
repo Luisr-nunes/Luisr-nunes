@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | TypeScript · React · Node.js · Python | ADS @CESAR School
 
-![Profile views](https://www.linkedin.com/in/luis-nunes-dev/)
+![Profile views](https://komarev.com/ghpvc/?username=Luisr-nunes&color=blue&style=flat-square)
 
 - Studying Analysis and Development of Systems at **Cesar School**
 - Currently learning: **C, Java and AWS**
@@ -12,7 +12,7 @@
 
 ### Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/lu%C3%ADs-nunes-35b099149/" target="_blank">
+  <a href="https://www.linkedin.com/in/luis-nunes-dev/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
