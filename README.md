@@ -1,8 +1,8 @@
 # Hi, I'm Luís Felipe Farias Nunes
 
-### Full-Stack Dev | Tech Audit | Project Management | EdTech
+### Full-Stack Developer | TypeScript · React · Node.js · Python | ADS @CESAR School
 
-![Profile views](https://komarev.com/ghpvc/?username=Luisr-nunes&color=blue)
+![Profile views](https://www.linkedin.com/in/luis-nunes-dev/)
 
 - Studying Analysis and Development of Systems at **Cesar School**
 - Currently learning: **C, Java and AWS**
