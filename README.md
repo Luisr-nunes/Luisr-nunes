@@ -10,6 +10,12 @@
 
 ---
 
+### About:
+
+Gestor de Produtos Digitais com mais de 4 anos de experiência no ciclo de vida de soluções educacionais digitais para uma base de  mais de 20.000 usuários, conduzindo auditorias de sistemas, monitoramento de KPIs e garantindo 100% de conformidade regulatória com as exigências do MEC. Com formação técnica em Análise e Desenvolvimento de Sistemas pela CESAR School, uma das principais instituições de tecnologia e inovação  do Brasil, estou em transição para o desenvolvimento de software, unindo visão estratégica de produto à construção de soluções eficientes e escaláveis. Meu diferencial está na combinação entre raciocínio analítico, sensibilidade para experiência do usuário e domínio técnico, atuando na interseção entre produto, tecnologia e negócio.   
+
+---
+
 ### Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/luis-nunes-dev/" target="_blank">
