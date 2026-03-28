@@ -75,6 +75,6 @@ Gestor de Produtos Digitais com mais de 4 anos de experiência no ciclo de vida 
 ---
 
 ### Most Used Languages:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisr-nunes&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=10&card_width=500" alt="Most Used Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisr-nunes&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=10&card_width=800" alt="Most Used Languages" />
 </p>
