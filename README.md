@@ -5,7 +5,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Luisr-nunes&color=blue&style=flat-square)
 
 - Studying Analysis and Development of Systems at **Cesar School**
-- Currently learning: **C, Java and AWS**
+- Currently learning: **C and Java**
 - How to reach me: [nunes.luis.ff@gmail.com](mailto:nunes.luis.ff@gmail.com)
 
 ---
