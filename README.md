@@ -1,12 +1,9 @@
-# Hi, I'm Luís Felipe Farias Nunes
+<div align="center">
 
-**Digital Product Manager | TypeScript · React.js · Node.js | Full-Stack Dev in training @CESAR School**
+# Hi, I'm Luís Felipe Farias Nunes
+###Digital Product Manager | TypeScript · React.js · Node.js | Full-Stack Dev in training @CESAR School
 
 ![Profile views](https://komarev.com/ghpvc/?username=Luisr-nunes&color=blue&style=flat-square)
-
-- Studying Analysis and Development of Systems at **Cesar School**
-- Currently learning: **C and Java**
-- How to reach me: [nunes.luis.ff@gmail.com](mailto:nunes.luis.ff@gmail.com)
 
 ---
 
@@ -14,12 +11,18 @@
 
 Gestor de Produtos Digitais com mais de 4 anos de experiência no ciclo de vida de soluções educacionais digitais para uma base de  mais de 20.000 usuários, conduzindo auditorias de sistemas, monitoramento de KPIs e garantindo 100% de conformidade regulatória com as exigências do MEC. Com formação técnica em Análise e Desenvolvimento de Sistemas pela CESAR School, uma das principais instituições de tecnologia e inovação  do Brasil, estou em transição para o desenvolvimento de software, unindo visão estratégica de produto à construção de soluções eficientes e escaláveis. Meu diferencial está na combinação entre raciocínio analítico, sensibilidade para experiência do usuário e domínio técnico, atuando na interseção entre produto, tecnologia e negócio.   
 
+- Studying Analysis and Development of Systems at **Cesar School**
+- Currently learning: **C and Java**
+
 ---
 
 ### Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/luis-nunes-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" >
+  </a>
+  <a href="mailto:nunes.luis.ff@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank">
   </a>
 </p>
 
