@@ -1,6 +1,6 @@
 # Hi, I'm Luís Felipe Farias Nunes
 
-### Full-Stack Developer | TypeScript · React · Node.js · Python | ADS @CESAR School
+**Digital Product Manager | TypeScript · React.js · Node.js | Full-Stack Dev in training @CESAR School**
 
 ![Profile views](https://komarev.com/ghpvc/?username=Luisr-nunes&color=blue&style=flat-square)
 
