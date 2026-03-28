@@ -1,5 +1,3 @@
-<div align="center">
-
 # Hi, I'm Luís Felipe Farias Nunes
 ###Digital Product Manager | TypeScript · React.js · Node.js | Full-Stack Dev in training @CESAR School
 
