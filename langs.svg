@@ -1,56 +1,61 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="222" viewBox="0 0 820 222">
-  <rect width="820" height="222" rx="12" fill="#161b22"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="250" viewBox="0 0 820 250">
+  <rect width="820" height="250" rx="12" fill="#161b22"/>
   <text x="24" y="18" fill="#e6edf3" font-size="15" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Most Used Languages</text>
-  <rect x="24.0" y="24" width="504.7" height="10" fill="#3178C6" rx="2"/><rect x="528.7" y="24" width="112.6" height="10" fill="#563D7C" rx="2"/><rect x="641.4" y="24" width="49.3" height="10" fill="#3776AB" rx="2"/><rect x="690.7" y="24" width="41.1" height="10" fill="#E34F26" rx="2"/><rect x="731.8" y="24" width="22.0" height="10" fill="#FFD700" rx="2"/><rect x="753.8" y="24" width="18.9" height="10" fill="#F7DF1E" rx="2"/><rect x="772.7" y="24" width="9.9" height="10" fill="#A8B9CC" rx="2"/><rect x="782.6" y="24" width="6.8" height="10" fill="#89E051" rx="2"/><rect x="789.4" y="24" width="3.6" height="10" fill="#00599C" rx="2"/><rect x="793.0" y="24" width="3.0" height="10" fill="#ED8B00" rx="2"/>
+  <rect x="24.0" y="24" width="453.6" height="10" fill="#3178C6" rx="2"/><rect x="477.6" y="24" width="108.7" height="10" fill="#563D7C" rx="2"/><rect x="586.2" y="24" width="68.2" height="10" fill="#F7DF1E" rx="2"/><rect x="654.5" y="24" width="44.3" height="10" fill="#3776AB" rx="2"/><rect x="698.8" y="24" width="40.6" height="10" fill="#E34F26" rx="2"/><rect x="739.4" y="24" width="19.8" height="10" fill="#FFD700" rx="2"/><rect x="759.2" y="24" width="13.7" height="10" fill="#DEA584" rx="2"/><rect x="772.9" y="24" width="11.0" height="10" fill="#A8B9CC" rx="2"/><rect x="783.9" y="24" width="6.1" height="10" fill="#89E051" rx="2"/><rect x="790.0" y="24" width="3.2" height="10" fill="#00599C" rx="2"/><rect x="793.2" y="24" width="2.7" height="10" fill="#ED8B00" rx="2"/>
   
       <circle cx="31" cy="65" r="6" fill="#3178C6"/>
       <text x="44" y="70" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
         <tspan font-weight="600">TypeScript</tspan>
-        <tspan fill="#8b949e"> 65.38%</tspan>
+        <tspan fill="#8b949e"> 58.75%</tspan>
       </text>
       <circle cx="417" cy="65" r="6" fill="#563D7C"/>
       <text x="430" y="70" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
         <tspan font-weight="600">CSS</tspan>
-        <tspan fill="#8b949e"> 14.59%</tspan>
+        <tspan fill="#8b949e"> 14.08%</tspan>
       </text>
-      <circle cx="31" cy="93" r="6" fill="#3776AB"/>
+      <circle cx="31" cy="93" r="6" fill="#F7DF1E"/>
       <text x="44" y="98" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
-        <tspan font-weight="600">Python</tspan>
-        <tspan fill="#8b949e"> 6.39%</tspan>
-      </text>
-      <circle cx="417" cy="93" r="6" fill="#E34F26"/>
-      <text x="430" y="98" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
-        <tspan font-weight="600">HTML</tspan>
-        <tspan fill="#8b949e"> 5.32%</tspan>
-      </text>
-      <circle cx="31" cy="121" r="6" fill="#FFD700"/>
-      <text x="44" y="126" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
-        <tspan font-weight="600">Portugol</tspan>
-        <tspan fill="#8b949e"> 2.85%</tspan>
-      </text>
-      <circle cx="417" cy="121" r="6" fill="#F7DF1E"/>
-      <text x="430" y="126" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
         <tspan font-weight="600">JavaScript</tspan>
-        <tspan fill="#8b949e"> 2.45%</tspan>
+        <tspan fill="#8b949e"> 8.84%</tspan>
       </text>
-      <circle cx="31" cy="149" r="6" fill="#A8B9CC"/>
+      <circle cx="417" cy="93" r="6" fill="#3776AB"/>
+      <text x="430" y="98" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
+        <tspan font-weight="600">Python</tspan>
+        <tspan fill="#8b949e"> 5.74%</tspan>
+      </text>
+      <circle cx="31" cy="121" r="6" fill="#E34F26"/>
+      <text x="44" y="126" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
+        <tspan font-weight="600">HTML</tspan>
+        <tspan fill="#8b949e"> 5.26%</tspan>
+      </text>
+      <circle cx="417" cy="121" r="6" fill="#FFD700"/>
+      <text x="430" y="126" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
+        <tspan font-weight="600">Portugol</tspan>
+        <tspan fill="#8b949e"> 2.56%</tspan>
+      </text>
+      <circle cx="31" cy="149" r="6" fill="#DEA584"/>
       <text x="44" y="154" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
-        <tspan font-weight="600">C</tspan>
-        <tspan fill="#8b949e"> 1.28%</tspan>
+        <tspan font-weight="600">Rust</tspan>
+        <tspan fill="#8b949e"> 1.78%</tspan>
       </text>
-      <circle cx="417" cy="149" r="6" fill="#89E051"/>
+      <circle cx="417" cy="149" r="6" fill="#A8B9CC"/>
       <text x="430" y="154" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
-        <tspan font-weight="600">Shell</tspan>
-        <tspan fill="#8b949e"> 0.88%</tspan>
+        <tspan font-weight="600">C</tspan>
+        <tspan fill="#8b949e"> 1.42%</tspan>
       </text>
-      <circle cx="31" cy="177" r="6" fill="#00599C"/>
+      <circle cx="31" cy="177" r="6" fill="#89E051"/>
       <text x="44" y="182" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
-        <tspan font-weight="600">C++</tspan>
-        <tspan fill="#8b949e"> 0.47%</tspan>
+        <tspan font-weight="600">Shell</tspan>
+        <tspan fill="#8b949e"> 0.79%</tspan>
       </text>
-      <circle cx="417" cy="177" r="6" fill="#ED8B00"/>
+      <circle cx="417" cy="177" r="6" fill="#00599C"/>
       <text x="430" y="182" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
+        <tspan font-weight="600">C++</tspan>
+        <tspan fill="#8b949e"> 0.42%</tspan>
+      </text>
+      <circle cx="31" cy="205" r="6" fill="#ED8B00"/>
+      <text x="44" y="210" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
         <tspan font-weight="600">Java</tspan>
-        <tspan fill="#8b949e"> 0.39%</tspan>
+        <tspan fill="#8b949e"> 0.35%</tspan>
       </text>
 </svg>
