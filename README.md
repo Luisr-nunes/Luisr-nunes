@@ -1,5 +1,5 @@
 # Hi, I'm Luís Felipe Farias Nunes
-**Digital Product Manager | Rust · JavaScript · React | Full-Stack Dev**
+**Digital Product Manager | Rust · TypeScript · React | Full-Stack Dev**
 
 ![Profile views](https://komarev.com/ghpvc/?username=Luisr-nunes&color=blue&style=flat-square)
 
