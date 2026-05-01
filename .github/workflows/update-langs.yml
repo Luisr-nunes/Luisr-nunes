@@ -5,12 +5,14 @@ on:
     - cron: '0 0 * * *' # Roda todo dia à meia-noite
   workflow_dispatch: # Permite rodar manualmente
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   update-langs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -18,7 +20,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
 
       - name: Generate Language Chart
         env:
