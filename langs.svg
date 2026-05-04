@@ -1,37 +1,37 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="820" height="250" viewBox="0 0 820 250">
   <rect width="820" height="250" rx="12" fill="#161b22"/>
   <text x="24" y="18" fill="#e6edf3" font-size="15" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Most Used Languages</text>
-  <rect x="24.0" y="24" width="293.1" height="10" fill="#3178C6" rx="2"/><rect x="317.1" y="24" width="223.6" height="10" fill="#3776AB" rx="2"/><rect x="540.6" y="24" width="81.6" height="10" fill="#563D7C" rx="2"/><rect x="622.2" y="24" width="77.2" height="10" fill="#F7DF1E" rx="2"/><rect x="699.4" y="24" width="41.9" height="10" fill="#E34F26" rx="2"/><rect x="741.3" y="24" width="19.3" height="10" fill="#DEA584" rx="2"/><rect x="760.6" y="24" width="16.3" height="10" fill="#FFD700" rx="2"/><rect x="776.9" y="24" width="9.1" height="10" fill="#A8B9CC" rx="2"/><rect x="786.0" y="24" width="5.1" height="10" fill="#89E051" rx="2"/><rect x="791.1" y="24" width="2.7" height="10" fill="#00599C" rx="2"/><rect x="793.8" y="24" width="2.2" height="10" fill="#ED8B00" rx="2"/>
+  <rect x="24.0" y="24" width="292.4" height="10" fill="#3178C6" rx="2"/><rect x="316.4" y="24" width="223.0" height="10" fill="#3776AB" rx="2"/><rect x="539.4" y="24" width="81.4" height="10" fill="#563D7C" rx="2"/><rect x="620.8" y="24" width="77.0" height="10" fill="#F7DF1E" rx="2"/><rect x="697.8" y="24" width="41.8" height="10" fill="#E34F26" rx="2"/><rect x="739.6" y="24" width="21.0" height="10" fill="#DEA584" rx="2"/><rect x="760.6" y="24" width="16.3" height="10" fill="#FFD700" rx="2"/><rect x="776.9" y="24" width="9.0" height="10" fill="#A8B9CC" rx="2"/><rect x="786.0" y="24" width="5.1" height="10" fill="#89E051" rx="2"/><rect x="791.1" y="24" width="2.7" height="10" fill="#00599C" rx="2"/><rect x="793.8" y="24" width="2.2" height="10" fill="#ED8B00" rx="2"/>
   
       <circle cx="31" cy="65" r="6" fill="#3178C6"/>
       <text x="44" y="70" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
         <tspan font-weight="600">TypeScript</tspan>
-        <tspan fill="#8b949e"> 37.96%</tspan>
+        <tspan fill="#8b949e"> 37.87%</tspan>
       </text>
       <circle cx="417" cy="65" r="6" fill="#3776AB"/>
       <text x="430" y="70" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
         <tspan font-weight="600">Python</tspan>
-        <tspan fill="#8b949e"> 28.96%</tspan>
+        <tspan fill="#8b949e"> 28.89%</tspan>
       </text>
       <circle cx="31" cy="93" r="6" fill="#563D7C"/>
       <text x="44" y="98" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
         <tspan font-weight="600">CSS</tspan>
-        <tspan fill="#8b949e"> 10.57%</tspan>
+        <tspan fill="#8b949e"> 10.55%</tspan>
       </text>
       <circle cx="417" cy="93" r="6" fill="#F7DF1E"/>
       <text x="430" y="98" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
         <tspan font-weight="600">JavaScript</tspan>
-        <tspan fill="#8b949e"> 10.00%</tspan>
+        <tspan fill="#8b949e"> 9.97%</tspan>
       </text>
       <circle cx="31" cy="121" r="6" fill="#E34F26"/>
       <text x="44" y="126" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
         <tspan font-weight="600">HTML</tspan>
-        <tspan fill="#8b949e"> 5.43%</tspan>
+        <tspan fill="#8b949e"> 5.42%</tspan>
       </text>
       <circle cx="417" cy="121" r="6" fill="#DEA584"/>
       <text x="430" y="126" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
         <tspan font-weight="600">Rust</tspan>
-        <tspan fill="#8b949e"> 2.50%</tspan>
+        <tspan fill="#8b949e"> 2.72%</tspan>
       </text>
       <circle cx="31" cy="149" r="6" fill="#FFD700"/>
       <text x="44" y="154" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
@@ -41,7 +41,7 @@
       <circle cx="417" cy="149" r="6" fill="#A8B9CC"/>
       <text x="430" y="154" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
         <tspan font-weight="600">C</tspan>
-        <tspan fill="#8b949e"> 1.18%</tspan>
+        <tspan fill="#8b949e"> 1.17%</tspan>
       </text>
       <circle cx="31" cy="177" r="6" fill="#89E051"/>
       <text x="44" y="182" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
