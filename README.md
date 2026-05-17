@@ -7,7 +7,7 @@
 
 ### About:
 
-Gestor de Produtos Digitais com mais de 4 anos de experiência no ciclo de vida de soluções educacionais digitais para uma base de  mais de 20.000 usuários, conduzindo auditorias de sistemas, monitoramento de KPIs e garantindo 100% de conformidade regulatória com as exigências do MEC. Com formação técnica em Análise e Desenvolvimento de Sistemas pela CESAR School, uma das principais instituições de tecnologia e inovação  do Brasil, estou em transição para o desenvolvimento de software, unindo visão estratégica de produto à construção de soluções eficientes e escaláveis. Meu diferencial está na combinação entre raciocínio analítico, sensibilidade para experiência do usuário e domínio técnico, atuando na interseção entre produto, tecnologia e negócio.   
+Desenvolvedor Full-Stack em transição ativa para a área de tecnologia, com mais de 4 anos de experiência na gestão de produtos digitais educacionais. Cursando Análise e Desenvolvimento de Sistemas na CESAR School (previsão: dezembro de 2027), com foco em TypeScript, React, Node.js e Rust. Construí projetos próprios como o ChestFlow (app desktop de finanças pessoais em Tauri 2 + Rust, publicado no GitHub Releases) e contribuí em projetos acadêmicos como o Educativia, aplicando princípios de engenharia de software como SRP e modelagem UML. Combino raciocínio analítico, visão de produto e domínio técnico crescente para construir soluções eficientes e orientadas ao usuário.
 
 - Studying Analysis and Development of Systems at **Cesar School**
 - Currently learning: **C and Java**
