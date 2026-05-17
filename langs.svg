@@ -1,61 +1,61 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="820" height="250" viewBox="0 0 820 250">
   <rect width="820" height="250" rx="12" fill="#161b22"/>
   <text x="24" y="18" fill="#e6edf3" font-size="15" font-weight="700" font-family="Segoe UI, Arial, sans-serif">Most Used Languages</text>
-  <rect x="24.0" y="24" width="283.9" height="10" fill="#3178C6" rx="2"/><rect x="307.9" y="24" width="216.5" height="10" fill="#3776AB" rx="2"/><rect x="524.4" y="24" width="79.1" height="10" fill="#563D7C" rx="2"/><rect x="603.5" y="24" width="74.7" height="10" fill="#F7DF1E" rx="2"/><rect x="678.2" y="24" width="42.3" height="10" fill="#E34F26" rx="2"/><rect x="720.5" y="24" width="29.4" height="10" fill="#A8B9CC" rx="2"/><rect x="749.9" y="24" width="20.6" height="10" fill="#DEA584" rx="2"/><rect x="770.5" y="24" width="15.8" height="10" fill="#FFD700" rx="2"/><rect x="786.4" y="24" width="4.9" height="10" fill="#89E051" rx="2"/><rect x="791.3" y="24" width="2.6" height="10" fill="#00599C" rx="2"/><rect x="793.9" y="24" width="2.2" height="10" fill="#ED8B00" rx="2"/>
+  <rect x="24.0" y="24" width="280.8" height="10" fill="#3178C6" rx="2"/><rect x="304.8" y="24" width="211.3" height="10" fill="#3776AB" rx="2"/><rect x="516.1" y="24" width="79.2" height="10" fill="#563D7C" rx="2"/><rect x="595.3" y="24" width="73.0" height="10" fill="#F7DF1E" rx="2"/><rect x="668.2" y="24" width="41.5" height="10" fill="#E34F26" rx="2"/><rect x="709.8" y="24" width="32.7" height="10" fill="#DEA584" rx="2"/><rect x="742.5" y="24" width="28.6" height="10" fill="#A8B9CC" rx="2"/><rect x="771.1" y="24" width="15.4" height="10" fill="#FFD700" rx="2"/><rect x="786.6" y="24" width="4.8" height="10" fill="#89E051" rx="2"/><rect x="791.4" y="24" width="2.5" height="10" fill="#00599C" rx="2"/><rect x="793.9" y="24" width="2.1" height="10" fill="#ED8B00" rx="2"/>
   
       <circle cx="31" cy="65" r="6" fill="#3178C6"/>
       <text x="44" y="70" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
         <tspan font-weight="600">TypeScript</tspan>
-        <tspan fill="#8b949e"> 36.77%</tspan>
+        <tspan fill="#8b949e"> 36.37%</tspan>
       </text>
       <circle cx="417" cy="65" r="6" fill="#3776AB"/>
       <text x="430" y="70" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
         <tspan font-weight="600">Python</tspan>
-        <tspan fill="#8b949e"> 28.05%</tspan>
+        <tspan fill="#8b949e"> 27.37%</tspan>
       </text>
       <circle cx="31" cy="93" r="6" fill="#563D7C"/>
       <text x="44" y="98" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
         <tspan font-weight="600">CSS</tspan>
-        <tspan fill="#8b949e"> 10.24%</tspan>
+        <tspan fill="#8b949e"> 10.26%</tspan>
       </text>
       <circle cx="417" cy="93" r="6" fill="#F7DF1E"/>
       <text x="430" y="98" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
         <tspan font-weight="600">JavaScript</tspan>
-        <tspan fill="#8b949e"> 9.68%</tspan>
+        <tspan fill="#8b949e"> 9.45%</tspan>
       </text>
       <circle cx="31" cy="121" r="6" fill="#E34F26"/>
       <text x="44" y="126" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
         <tspan font-weight="600">HTML</tspan>
-        <tspan fill="#8b949e"> 5.48%</tspan>
+        <tspan fill="#8b949e"> 5.38%</tspan>
       </text>
-      <circle cx="417" cy="121" r="6" fill="#A8B9CC"/>
+      <circle cx="417" cy="121" r="6" fill="#DEA584"/>
       <text x="430" y="126" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
-        <tspan font-weight="600">C</tspan>
-        <tspan fill="#8b949e"> 3.81%</tspan>
-      </text>
-      <circle cx="31" cy="149" r="6" fill="#DEA584"/>
-      <text x="44" y="154" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
         <tspan font-weight="600">Rust</tspan>
-        <tspan fill="#8b949e"> 2.67%</tspan>
+        <tspan fill="#8b949e"> 4.24%</tspan>
+      </text>
+      <circle cx="31" cy="149" r="6" fill="#A8B9CC"/>
+      <text x="44" y="154" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
+        <tspan font-weight="600">C</tspan>
+        <tspan fill="#8b949e"> 3.71%</tspan>
       </text>
       <circle cx="417" cy="149" r="6" fill="#FFD700"/>
       <text x="430" y="154" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
         <tspan font-weight="600">Portugol</tspan>
-        <tspan fill="#8b949e"> 2.05%</tspan>
+        <tspan fill="#8b949e"> 2.00%</tspan>
       </text>
       <circle cx="31" cy="177" r="6" fill="#89E051"/>
       <text x="44" y="182" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
         <tspan font-weight="600">Shell</tspan>
-        <tspan fill="#8b949e"> 0.64%</tspan>
+        <tspan fill="#8b949e"> 0.62%</tspan>
       </text>
       <circle cx="417" cy="177" r="6" fill="#00599C"/>
       <text x="430" y="182" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
         <tspan font-weight="600">C++</tspan>
-        <tspan fill="#8b949e"> 0.34%</tspan>
+        <tspan fill="#8b949e"> 0.33%</tspan>
       </text>
       <circle cx="31" cy="205" r="6" fill="#ED8B00"/>
       <text x="44" y="210" fill="#e6edf3" font-size="13" font-family="Segoe UI, Arial, sans-serif">
         <tspan font-weight="600">Java</tspan>
-        <tspan fill="#8b949e"> 0.28%</tspan>
+        <tspan fill="#8b949e"> 0.27%</tspan>
       </text>
 </svg>
