@@ -70,7 +70,7 @@ Desenvolvedor Full-Stack em transição ativa para a área de tecnologia, com ma
 ### Education
 
 * **Analysis and Systems Development** (BTech) – **CESAR School** (2025 – 2027)
-* **Intelligent Management of Distance Learning** (Postgraduate) – **UNIFAEL** (Expected 2026)
+* **Intelligent Management of Distance Learning** (Postgraduate) – **UNIFAEL** (2026)
 * **Distance Learning with a Focus on Methodologies** (Postgraduate) – **UNAMA** (2023)
 * **MBA in Financial Management, Controllership and Auditing** – **Faculdade UniBF** (2022)
 * **Real Estate Transactions Technician** – **Escola Técnica Mônaco** (2021)
