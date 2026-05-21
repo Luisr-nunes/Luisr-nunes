@@ -7,7 +7,7 @@
 
 ### About:
 
-Desenvolvedor Full-Stack em transição ativa para a área de tecnologia, com mais de 4 anos de experiência na gestão de produtos digitais educacionais. Cursando Análise e Desenvolvimento de Sistemas na CESAR School (previsão: dezembro de 2027), com foco em TypeScript, React, Node.js e Rust. Construí projetos próprios como o ChestFlow (app desktop de finanças pessoais em Tauri 2 + Rust, publicado no GitHub Releases) e contribuí em projetos acadêmicos como o Educativia, aplicando princípios de engenharia de software como SRP e modelagem UML. Combino raciocínio analítico, visão de produto e domínio técnico crescente para construir soluções eficientes e orientadas ao usuário.
+Desenvolvedor Full-Stack em transição ativa para a área de tecnologia, com mais de 4 anos de experiência na gestão de produtos digitais educacionais. Cursando Análise e Desenvolvimento de Sistemas na CESAR School (previsão: dezembro de 2027), com foco em TypeScript, React, Node.js, Python e Rust. Construí projetos próprios como o ChestFlow (app desktop de finanças pessoais em Tauri 2 + Rust, publicado no GitHub Releases) e contribuí em projetos acadêmicos como o Educativia, aplicando princípios de engenharia de software como SRP e modelagem UML. Combino raciocínio analítico, visão de produto e domínio técnico crescente para construir soluções eficientes e orientadas ao usuário.
 
 - Studying Analysis and Development of Systems at **Cesar School**
 - Currently learning: **C and Java**
