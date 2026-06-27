@@ -69,12 +69,12 @@ Em transição ativa para a área de tecnologia, busco oportunidades como Desenv
 
 ### Education
 
-* **Analysis and Systems Development** (BTech) – **CESAR School** (2025 – 2027)
-* **Intelligent Management of Distance Learning** (Postgraduate) – **UNIFAEL** (2026)
-* **Distance Learning with a Focus on Methodologies** (Postgraduate) – **UNAMA** (2023)
-* **MBA in Financial Management, Controllership and Auditing** – **Faculdade UniBF** (2022)
-* **Real Estate Transactions Technician** – **Escola Técnica Mônaco** (2021)
-* **Bachelor’s Degree in Accounting** – **Faculdade ESUDA** (2016 – 2020)
+* BTech in **Analysis and Systems Development** – **CESAR School** (2025 – 2027)
+* Specialization in **Intelligent Management of Distance Learning** – **UNIFAEL** (2026)
+* Specialization in **Distance Learning with a Focus on Methodologies** – **UNAMA** (2023)
+* MBA in **Financial Management, Controllership, and Auditing** – **Faculdade UniBF** (2022)
+* Bachelor’s Degree in **Accounting** – **Faculdade ESUDA** (2016 – 2020)
+* Technical Degree in **Real Estate Transactions** – **Escola Técnica Mônaco** (2021)
 
 ---
 
