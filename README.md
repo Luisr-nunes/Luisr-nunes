@@ -1,5 +1,5 @@
 # Hi, I'm Luís Felipe Farias Nunes
-**Digital Product Manager | Rust · TypeScript · Node.js · React | Full-Stack Dev**
+**SOFTWARE DEVELOPER (REACT · NODE · TYPESCRIPT · RUST) | CONTABILIDADE & MBA EM FINANÇAS | DATA ANALYTICS**
 
 ![Profile views](https://komarev.com/ghpvc/?username=Luisr-nunes&color=blue&style=flat-square)
 
@@ -7,7 +7,7 @@
 
 ### About:
 
-Em transição ativa para a área de tecnologia, busco oportunidades como Desenvolvedor Junior ou Analista de Sistemas, onde possa aplicar meu domínio técnico em TypeScript, React e Node.js, aliado à minha experiência em gestão de produtos digitais e análise de dados, contribuindo com soluções eficientes e orientadas ao usuário.
+Busco atuar como Desenvolvedor Junior ou Analista de Sistemas aplicando meu domínio em TypeScript, React e Node.js. Como diferencial, uno meu diploma em Contabilidade e MBA em Finanças à experiência em gestão de produtos digitais e análise de dados. Meu foco é traduzir regras de negócios em softwares eficientes e escaláveis, desenvolvendo soluções orientadas ao usuário e gerando vantagem competitiva para a empresa.
 
 - Studying Analysis and Development of Systems at **Cesar School**
 - Currently learning: **C and Java**
