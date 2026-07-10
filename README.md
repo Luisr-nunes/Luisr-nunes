@@ -1,5 +1,5 @@
 # Hi, I'm Luís Felipe Farias Nunes
-**Software Developer (React · Node · TypeScript ·  Rust) | Contabilidade & MBA em Finanças | Data Analytics**
+**Software Developer (React · Node.js · TypeScript ·  Rust) | Contabilidade & MBA em Finanças | Data Analytics**
 
 ![Profile views](https://komarev.com/ghpvc/?username=Luisr-nunes&color=blue&style=flat-square)
 
