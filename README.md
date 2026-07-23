@@ -1,5 +1,5 @@
-# Hi, I'm Luís Felipe Farias Nunes
-**Software Developer (React · Node.js · TypeScript ·  Rust) | Contabilidade & MBA em Finanças | Data Analytics**
+# Hi, I'm Luís Nunes
+**Desenvolvedor Full Stack (React · Node.js · TypeScript · Rust) | Contabilidade & MBA em Controladoria**
 
 ![Profile views](https://komarev.com/ghpvc/?username=Luisr-nunes&color=blue&style=flat-square)
 
@@ -7,7 +7,7 @@
 
 ### About:
 
-Busco atuar como Desenvolvedor Junior ou Analista de Sistemas aplicando meu domínio em TypeScript, React e Node.js. Como diferencial, uno meu diploma em Contabilidade e MBA em Finanças à experiência em gestão de produtos digitais e análise de dados. Meu foco é traduzir regras de negócios em softwares eficientes e escaláveis, desenvolvendo soluções orientadas ao usuário e gerando vantagem competitiva para a empresa.
+Atuo como Desenvolvedor Full Stack e Analista de Controladoria na Casa dos Frios, onde desenvolvo, aprimoro e corrijo o sistema interno de controladoria da empresa, atuando de ponta a ponta: front-end, back-end e banco de dados. Como diferencial, uno meu diploma em Contabilidade e MBA em Controladoria à experiência em desenvolvimento de software, o que me permite traduzir regras de negócio complexas em soluções técnicas eficientes e escaláveis. Meu foco é entregar software que realmente resolve os problemas do negócio, unindo domínio técnico (TypeScript, React, Node.js, Rust) à visão analítica de controladoria.
 
 - Studying Analysis and Development of Systems at **Cesar School**
 - Currently learning: **C and Java**
