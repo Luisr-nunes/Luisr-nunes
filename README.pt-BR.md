@@ -1,8 +1,6 @@
 # Olá, eu sou o Luís Nunes
 **Desenvolvedor Full Stack (React · Node.js · TypeScript · Rust) | Contabilidade & MBA em Controladoria**
 
-![Profile views](https://komarev.com/ghpvc/?username=Luisr-nunes&color=blue&style=flat-square)
-
 <p align="left">
   🇺🇸 <a href="README.md">Read in English</a>
 </p>
