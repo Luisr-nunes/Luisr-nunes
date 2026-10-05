@@ -9,7 +9,7 @@
 
 ### Sobre mim:
 
-Atuo como desenvolvedor full stack e analista de controladoria na Casa dos Frios, onde desenvolvo, aprimoro e corrijo o sistema interno de controladoria da empresa, atuando de ponta a ponta: front-end, back-end e banco de dados. Como diferencial, uno meu diploma em Contabilidade e MBA em Controladoria à formação atual em Análise e Desenvolvimento de Sistemas, o que me permite traduzir regras de negócio complexas em soluções técnicas eficientes e escaláveis. Meu foco é entregar software que realmente resolve os problemas do negócio, unindo domínio técnico (TypeScript, React, Node.js, Rust) à visão analítica de controladoria.
+Desenvolvedor de Software e Especialista em Controladoria, unindo finanças e tecnologia. Especialista em transformar regras de negócio complexas em aplicações escaláveis e de alta performance utilizando TypeScript, React, Node.js e Rust. Combina sólida visão financeira com execução técnica para entregar inteligência de negócio acionável e impulsionar a tomada de decisões estratégicas.
 
 - Cursando Análise e Desenvolvimento de Sistemas na **Cesar School**
 - Aprendendo atualmente: **C, C++ e Java**
