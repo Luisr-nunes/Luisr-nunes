@@ -9,7 +9,7 @@
 
 ### About:
 
-I work as a full stack developer and controllership analyst at Casa dos Frios, where I develop, improve, and fix the company's internal controllership system, working end-to-end across front-end, back-end, and database. As a differentiator, I combine my degree in Accounting and MBA in Controllership with my current studies in Systems Analysis and Development, which allows me to translate complex business rules into efficient, scalable technical solutions. My focus is delivering software that truly solves business problems, blending technical expertise (TypeScript, React, Node.js, Rust) with an analytical controllership mindset.
+Software Engineer and Controllership Specialist bridging the gap between finance and technology. Expert in transforming complex business requirements into scalable, high-performance applications using TypeScript, React, Node.js, and Rust. Combines deep financial acumen with technical execution to deliver actionable business intelligence and drive strategic decision-making.
 
 - Studying Analysis and Development of Systems at **Cesar School**
 - Currently learning: **C, C++ and Java**
