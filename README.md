@@ -9,7 +9,7 @@
 
 ### About:
 
-Software Engineer and Controllership Specialist bridging the gap between finance and technology. Expert in transforming complex business requirements into scalable, high-performance applications using TypeScript, React, Node.js, and Rust. Combines deep financial acumen with technical execution to deliver actionable business intelligence and drive strategic decision-making.
+Software Developer and Controllership Specialist bridging the gap between finance and technology. Expert in transforming complex business requirements into scalable, high-performance applications using TypeScript, React, Node.js, and Rust. Combines deep financial acumen with technical execution to deliver actionable business intelligence and drive strategic decision-making..
 
 - Studying Analysis and Development of Systems at **Cesar School**
 - Currently learning: **C, C++ and Java**
