@@ -2,7 +2,7 @@
 **Desenvolvedor Full Stack (React · Node.js · TypeScript · Rust) | Contabilidade & MBA em Controladoria**
 
 <p align="left">
-  🇺🇸 <a href="README.md">Read in English</a>
+  <a href="README.md">Read in English</a>
 </p>
 
 ---
@@ -46,7 +46,7 @@ Desenvolvedor de Software e Especialista em Controladoria, unindo finanças e te
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-663399?style=flat-square&logo=css&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" />
