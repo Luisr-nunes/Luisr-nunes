@@ -1,5 +1,5 @@
 # Hi, I'm Luís Nunes
-**Full Stack Developer (React · Node.js · TypeScript · Rust) | Accounting & MBA in Controllership**
+**Full Stack Developer (TypeScript • Node.js • JavaScript • Java • C++) | Accounting & MBA in Controllership**
 
 <p align="left">
   🇧🇷 <a href="README.pt-BR.md">Ler em Português</a>
