@@ -1,5 +1,5 @@
 # Olá, eu sou o Luís Nunes
-**Desenvolvedor Full Stack (React · Node.js · TypeScript · Rust) | Contabilidade & MBA em Controladoria**
+**Desenvolvedor Full Stack (TypeScript • Node.js • JavaScript • Java • C++) | Contabilidade & MBA em Controladoria**
 
 <p align="left">
   🇺🇸 <a href="README.md">Read in English</a>
